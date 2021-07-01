@@ -1,0 +1,27 @@
+ body{
+        border:2px solid blue;
+      }
+      h2{
+          margin-left: 20px;
+          margin-top: 20px;
+      }
+      p,li{
+          margin-left: 20px;
+      }
+      .center{
+          text-align: center;
+          font-size: 30px;
+      }
+      .em{
+          text-align: center;
+          font-size: 20px;
+      }
+      #leftbox {
+        float:left; 
+        width:50%;
+        
+    }
+    #rightbox {
+        float:left; 
+        width:50%;
+    }
